@@ -1,3 +1,5 @@
-# docker-parse-dashboard
+# Parse Dashboard
 
-Creates a container with Parse Dashboard installed.
+Docker container with Node and Parse Dashboard.
+
+https://github.com/parse-community/parse-dashboard
