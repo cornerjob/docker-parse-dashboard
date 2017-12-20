@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6
+FROM node:latest
 
 RUN npm install -g parse-dashboard@1.1.2
 
